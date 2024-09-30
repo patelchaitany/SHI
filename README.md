@@ -34,7 +34,7 @@ Current deepfake detection techniques primarily assume that generated videos wil
 - *Marlin*: A facial video representation learning model used for learned low-dimensional facial features.
 - *Lip-Sync Detection*: Analyzes the synchronization of lip movements with audio to detect inconsistencies.
 - *Zero-Day*: A reference image and video comparison model for validating face-swap detection.
-- *Python, **TensorFlow, **Keras, **OpenCV, **PyTorch*
+- Python, TensorFlow, Keras, OpenCV, PyTorch
 
 ## References:
 - [MARLIN: Masked Autoencoder for facial video Representation LearnINg](https://github.com/ControlNet/MARLIN?tab=readme-ov-file)
