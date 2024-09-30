@@ -12,10 +12,10 @@
 Current deepfake detection techniques primarily assume that generated videos will mimic previously created ones, which limits their adaptability as deepfake methods evolve. Our approach introduces an ensemble of both data-dependent and data-independent models, combining lip forgery detection and face anomaly detection to create a more comprehensive and robust deepfake detection framework. By leveraging Blaze-Face, VGG16, Marlin, and Lip-Sync models, our solution provides a multi-domain detection approach that covers a wide range of manipulations, ensuring improved accuracy and robustness.
 
 ## Architecture
-![Architecture](arc.jpge)
+- ![Architecture](arc.jpge)
+  
 ## Demonstration:
-
--[YouTube Demo Link](https://www.youtube.com/watch?v=PGw7XrgnyE0)
+- [YouTube Demo Link](https://www.youtube.com/watch?v=PGw7XrgnyE0)
 
 ## Use Cases:
 ### Real-World Applications of Deep Fake Detection:
