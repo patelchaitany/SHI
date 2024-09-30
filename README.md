@@ -1,6 +1,6 @@
 # Smart India Hackathon 2024
 
-# Team CMDSPN
+## Team CMDSPN
 
 ## Problem Statement Code: 1683
 ### Development of AI/ML based solution for detection of face-swap based deep fake videos
