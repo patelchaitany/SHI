@@ -13,7 +13,7 @@ Current deepfake detection techniques primarily assume that generated videos wil
 
 ## Architecture
 <div>
-    <img src="arc.jpge">
+    <img src="arc.jpeg">
     <p></p>
 </div>
   
